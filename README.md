@@ -1,2 +1,5 @@
 # homepage
-Working on The Odin Project responsive design assignment.
+
+My assignment in The Odin Project Advanced HTML and CSS course.
+
+https://andreimandrique.github.io/homepage/
